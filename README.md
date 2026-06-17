@@ -1,5 +1,7 @@
 # Xadrez 1D
 
+**[▶ Jogar agora](https://igor-gregori.github.io/1d-chess/)**
+
 Variante de xadrez em uma dimensão, originalmente descrita por Martin Gardner na coluna *Mathematical Games* da Scientific American (julho 1980).
 
 ## Como jogar
